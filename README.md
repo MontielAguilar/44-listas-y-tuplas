@@ -1,5 +1,7 @@
 # Summary of Exercises on Lists and Tuples in Python
 
+![Python Logo](https://raw.githubusercontent.com/MontielAguilar/44-listas-y-tuplas/main/python-logo.png)
+
 This README provides a summary of exercises related to lists and tuples in Python.
 
 ## 1. Lists
